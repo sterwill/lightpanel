@@ -4,6 +4,10 @@ An app for the Roku digital video player that shows you
 blinking lights on old computers.  Can be configured as a
 screensaver.
 
+This program isn't in the Roku Channel Store, so you'll have to 
+build it and install it on your (developer-unlocked) Roku
+device.  See the instructions in the `roku` subdirectory.
+
 The program cycles through several light animations
 (random fast, random slow, binary counter, left-to-right)
 and adding new animations to the source code is pretty easy.
