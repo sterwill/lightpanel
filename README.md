@@ -17,8 +17,11 @@ It's too bad you can't see the lights blinking in these
 images, you'll have to install the program to your Roku
 to see it in action.
 
-[![Data General Nova 3](/sterwill/lightpanel/raw/master/screenshots/nova3-hd-small.png "Data General Nova 3")](screenshots/nova3-hd.png)
-[![Digital PDP 11/20](/sterwill/lightpanel/raw/master/screenshots/pdp1120-hd-small.png "Digital PDP 11/20")](screenshots/pdp1120-hd.png)
+### Data General Nova 3
+[![Data General Nova 3](/sterwill/lightpanel/raw/master/screenshots/nova3-hd-small.png)](/sterwill/lightpanel/raw/master/screenshots/nova3-hd.png)
+
+### Digital PDP 11/20
+[![Digital PDP 11/20](/sterwill/lightpanel/raw/master/screenshots/pdp1120-hd-small.png)](/sterwill/lightpanel/raw/master/screenshots/pdp1120-hd.png)
 
 # Requirements
 
