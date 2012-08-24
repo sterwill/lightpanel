@@ -1,0 +1,5 @@
+Light Panel for Roku
+Copyright 2012 Shaw Terwilliger and Others
+
+See roku/source/LICENSE.txt for source code licensing information.
+See roku/gimp/LICENSE.txt for image licensing information.

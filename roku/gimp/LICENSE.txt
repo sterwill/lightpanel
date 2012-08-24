@@ -1,0 +1,5 @@
+This directory contains modified GIMP images.  They are licensed 
+under the same license the original image was obtained under
+(see originals/LICENSE.txt).
+
+Shaw Terwilliger <sterwill@tinfig.com>

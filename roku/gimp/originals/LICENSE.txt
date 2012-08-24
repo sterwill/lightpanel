@@ -1,0 +1,37 @@
+This file lists the license information for the source images used
+in the lightpanel program.  
+
+If you are one of the authors listed below and want me to change 
+your attribution, please contact me at sterwill@tinfig.com.
+
+------------------------------------------------------------------------
+
+File: Cray-XMP48-p1010244.jpg
+Location: http://commons.wikimedia.org/wiki/File:Cray-XMP48-p1010244.jpg
+License: Creative Commons Attribution-Share Alike 2.0 France 
+  (http://creativecommons.org/licenses/by-sa/2.0/fr/deed.en)
+Source: Wikimedia Commons
+Author: Rama (http://commons.wikimedia.org/wiki/User:Rama)
+
+File: Dg-nova3.jpg
+Location : http://commons.wikimedia.org/wiki/File:Dg-nova3.jpg
+License: The copyright holder of this work allows anyone to use it for 
+  any purpose including unrestricted redistribution, commercial use, 
+  and modification.
+Source: Wikipedia
+Author: Qu1j0t3 (http://wikipedia.org/wiki/User:Qu1j0t3)
+
+File: Digital_PDP11-IMG_1498.jpg
+Location: http://commons.wikimedia.org/wiki/File:Digital_PDP11-IMG_1498.jpg
+License: Creative Commons Attribution-Share Alike 2.0 France 
+  (http://creativecommons.org/licenses/by-sa/2.0/fr/deed.en)
+Source: Wikimedia Commons
+Author: Rama & Musée Bolo (http://commons.wikimedia.org/wiki/User:Rama)
+
+File: HP_1000_E-Series_minicomputer.jpg
+Location: http://commons.wikimedia.org/wiki/File:HP_1000_E-Series_minicomputer.jpg
+License: Creative Commons Attribution-Share Alike 3.0 Unported 
+  (http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+Source: Wikimedia Commons
+Author: Autopilot (http://en.wikipedia.org/wiki/User:Autopilot)
+
