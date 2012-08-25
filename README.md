@@ -1,6 +1,4 @@
-<div style="margin:auto;">
 [Light Panel HD Icon](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Center_HD.png)
-</div>
 
 # Overview
 
