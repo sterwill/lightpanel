@@ -1,4 +1,8 @@
-[Light Panel HD Icon](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Center_HD.png)
+![](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Side_HD.png)
+![](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Side_HD.png)
+![](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Center_HD.png)
+![](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Side_HD.png)
+![](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Side_HD.png)
 
 # Overview
 
