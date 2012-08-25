@@ -1,3 +1,7 @@
+<div style="margin:auto;">
+[Light Panel HD Icon](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Center_HD.png)
+</div>
+
 # Overview
 
 A program for the Roku digital video player that shows you 
@@ -12,20 +16,8 @@ The program cycles through several light animations
 Adding new animations to the source code is pretty easy if
 you've ever written code before.
 
-The program has no network dependencies.  All the images
+The program doesn't use the network when it runs.  All the images
 are packaged with the application.
-
-# Screenshots
-
-It's too bad you can't see the lights blinking in these
-images, you'll have to install the program to see it in
-action.
-
-### Data General Nova 3
-[![Data General Nova 3](/sterwill/lightpanel/raw/master/screenshots/nova3-hd-small.png)](/sterwill/lightpanel/raw/master/screenshots/nova3-hd.png)
-
-### Digital PDP 11/20
-[![Digital PDP 11/20](/sterwill/lightpanel/raw/master/screenshots/pdp1120-hd-small.png)](/sterwill/lightpanel/raw/master/screenshots/pdp1120-hd.png)
 
 # Requirements
 
@@ -37,6 +29,17 @@ Light Panel HD requires a Roku 2, Roku XDS, or Roku XR
 (or presumably any newer generation), because the images
 make it too large to fit on a Roku 1 (which has a application
 size limit of 768,000 bytes).
+
+# Screenshots
+
+It's really too bad you can't see the lights blinking in these
+images.  You'll just have to install it to see it in action.
+
+### Data General Nova 3
+[![Data General Nova 3](/sterwill/lightpanel/raw/master/screenshots/nova3-hd-small.png)](/sterwill/lightpanel/raw/master/screenshots/nova3-hd.png)
+
+### Digital PDP 11/20
+[![Digital PDP 11/20](/sterwill/lightpanel/raw/master/screenshots/pdp1120-hd-small.png)](/sterwill/lightpanel/raw/master/screenshots/pdp1120-hd.png)
 
 # Image Credits
 

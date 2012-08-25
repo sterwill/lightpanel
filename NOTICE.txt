@@ -1,4 +1,4 @@
-Light Panel for Roku
+Light Panel HD for Roku
 Copyright 2012 Shaw Terwilliger and Others
 
 See roku/source/LICENSE.txt for source code licensing information.

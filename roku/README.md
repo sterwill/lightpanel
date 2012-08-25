@@ -22,7 +22,8 @@ Press:
 Development mode lets you install unsigned applications and opens up the
 debug console on TCP port 8085.
 
-_Make a note of your Roku's IP address._
+*While you're in the developer screen, make a note of your Roku's IP 
+address.*
 
 ## On a Unix System with make, zip, and curl
 
@@ -31,7 +32,7 @@ export ROKU_DEV_TARGET=<your.roku.ip.address.or.hostname>
 make install
 ```
 
-That should do it.  Make will build `out/lightpanel.zip` with zip
+That should do it.  make will build `out/lightpanel.zip` with zip
 and upload it to your Roku.
 
 The application should start immediately.
@@ -41,7 +42,8 @@ The application should start immediately.
 You can install a pre-built release package from the `../release` 
 directory without make, zip, and curl installed.  Just visit your 
 Roku's web server (running on TCP port 80) in your favorite web 
-browser and upload the `out/lightpanel.zip` file with the web form.
+browser and upload the `../release/lightpanel-x.y.z.zip` file with
+the web form.
 
 That's it!
 
@@ -72,7 +74,7 @@ Trey Gourley has an [awesome guide to developing a basic Roku
 channel](http://www.treygourley.com/2012/07/developing-a-basic-roku-channel/)
 that I really wish was around when I wrote Light Panel HD.  The
 article describes development mode, debugging, image dimensions, hosting,
-uploading, and much more
+uploading, and much more.
 
 
 Shaw Terwilliger <sterwill@tinfig.com>
