@@ -1,8 +1,4 @@
-![](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Side_HD.png)
-![](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Side_HD.png)
 ![](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Center_HD.png)
-![](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Side_HD.png)
-![](/sterwill/lightpanel/raw/master/roku/images/MainMenu_Icon_Side_HD.png)
 
 # Overview
 
@@ -18,7 +14,7 @@ The program cycles through several light animations
 Adding new animations to the source code is pretty easy if
 you've ever written code before.
 
-The program doesn't use the network when it runs.  All the images
+Light Panel HD doesn't use the network when it runs.  All the images
 are packaged with the application.
 
 # Requirements
