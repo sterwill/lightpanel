@@ -19,9 +19,10 @@ are packaged with the application.
 
 # Quick Install
 
-Light Panel HD is available as a private channel.
+If you're not interested in installing from source, Light Panel HD 
+is available as a private channel.
 
-  https://owner.roku.com/add/lightpanel
+https://owner.roku.com/add/lightpanel
 
 # Requirements
 
