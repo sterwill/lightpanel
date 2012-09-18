@@ -5,13 +5,16 @@ BASIC-like language called BrightScript.  There's really no compilation
 involved, just packaging the script files any resources (images, manifest)
 into a ZIP archive that you can copy to your Roku.
 
-Applications in the Roku Channel Store must be cryptographically
-signed.  This is a process I haven't done, so these instructions 
-skip those steps.  You'll have an package that can only be installed on a 
-Roku in "developer mode", but it's really easy to do and there really
+If you want to install a program from source code, you must put your
+Roku in "developer mode".  It's really easy to do and there really
 aren't any down-sides to enabling it.
 
-# Installing Light Panel HD
+If you don't want to install from source code, you can install the
+latest version from the private channel I published:
+
+  https://owner.roku.com/add/lightpanel
+
+# Installing Light Panel HD from Source
 
 ## Put your Roku in Development Mode
 

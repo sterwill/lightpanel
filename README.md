@@ -17,6 +17,12 @@ you've ever written code before.
 Light Panel HD doesn't use the network when it runs.  All the images
 are packaged with the application.
 
+# Quick Install
+
+Light Panel HD is available as a private channel.
+
+  https://owner.roku.com/add/lightpanel
+
 # Requirements
 
 Sorry SDTV viewers, Light Panel HD only works when your Roku is in
