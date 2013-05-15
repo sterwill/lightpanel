@@ -41,10 +41,10 @@ It's really too bad you can't see the lights blinking in these
 images.  You'll just have to install it to see it in action.
 
 ### Data General Nova 3
-[![Data General Nova 3](/sterwill/lightpanel/raw/master/screenshots/nova3-hd-small.png)](/sterwill/lightpanel/raw/master/screenshots/nova3-hd.png)
+[![Data General Nova 3](https://raw.github.com/sterwill/lightpanel/master/screenshots/nova3-hd-small.png)](https://raw.github.com/sterwill/lightpanel/master/screenshots/nova3-hd.png)
 
 ### Digital PDP 11/20
-[![Digital PDP 11/20](/sterwill/lightpanel/raw/master/screenshots/pdp1120-hd-small.png)](/sterwill/lightpanel/raw/master/screenshots/pdp1120-hd.png)
+[![Digital PDP 11/20](https://raw.github.com/sterwill/lightpanel/master/screenshots/pdp1120-hd-small.png)](https://raw.github.com/sterwill/lightpanel/master/screenshots/pdp1120-hd.png)
 
 # Image Credits
 
